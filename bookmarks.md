@@ -1,5 +1,5 @@
-<TITLE>Bookmarks</TITLE>
 <H1>Bookmarks</H1>
+
 <DL><p>
 <DT><H3>Awesome Piracy</H3>
 <DL><p>
